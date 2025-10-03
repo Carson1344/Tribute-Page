@@ -1,0 +1,106 @@
+#header {
+  text-align: center;
+  background-color: orange;
+  color: darkblue;
+  margin:0;
+  padding: 30px;
+  font-size:50px ;
+}
+.myimg {
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.myimg2{
+width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0 auto;
+
+}
+.myimg3{
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0 auto;
+}
+.myimg4{
+   width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+}
+.myimg6{
+   width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+}
+.myimg7{
+   width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+}
+.myimg8{
+   width: 400px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+}
+.myimg9{
+   width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+}
+.myimg10{
+  width: 1000px;
+  height: 600px;
+  object-fit: cover;
+  border-radius: 0%;
+  display: 0px;
+} 
+
+p, li{
+  font-size: 45px;
+  color: #1D90C2;
+}
+
+li{
+  display: inline-;
+
+}
+@font-face {
+ font-family:"font";
+ src: url(font.ttf);
+}
+#font{
+  font-family: "font";
+}
+body{
+  background-color: #6100E0;
+}
+h2{
+  color: #1D90C2;
+}
+button{
+  font-weight: bold;
+  font-size: 16px;
+  color: orange;
+  background-color: darkblue;
+  display: block;
+  margin:40px auto;
+  padding: 10px 200px;
+  border:solid 2px #1D90C2;
+}
